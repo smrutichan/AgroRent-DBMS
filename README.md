@@ -27,8 +27,6 @@ AgroRent is a DBMS-based system that helps farmers rent agricultural equipment e
 - Users with no bookings
 - Average ratings
 
-## 📂 Project Structure
-Explain your folders here.
 
 ## 🔮 Future Scope
 - Online payments
